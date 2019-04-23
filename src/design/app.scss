@@ -1,0 +1,43 @@
+$background: tan;
+$em: 1.5em;
+$padding: 5px;
+$font: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+body{
+  background: $background;
+  display: flex;
+  flex-direction: column;
+  header{
+    background: grey;
+    text-align: center;
+    padding: $padding;
+    font-family: $font;
+  }
+  footer{
+    background: green;
+    padding: 15px;
+    bottom: 0px;
+    text-align: center;
+    position: fixed;
+    font-size: $em;
+    width:100%;
+    font-family: $font;
+  }
+  div{
+    text-align:center;
+  }
+  h4{
+    font-size: 5em;
+    text-align: center;
+  }
+  a{
+    text-align: center;
+    border: 4px solid black;
+    margin: 5px 10px;
+    padding: $padding;
+    font-size: $em;
+    background: red;
+    font-family: $font;
+  }
+}
