@@ -3,7 +3,7 @@
 This lab demonstrates simple styling and DOM manipulation using React.
 
 ## Links and Resources
-- [Github Repo](https://github.com/401-advanced-javascript-1/lab-11-authentication/tree/submission)
+- [Github Repo](https://github.com/cory0s/Lab-class-26)
 
 
 # Modules
